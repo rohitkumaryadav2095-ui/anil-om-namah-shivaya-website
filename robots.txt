@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rohitkumaryadav2095-ui.github.io/anil-om-namah-shivaya-website/sitemap.xml
